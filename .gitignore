@@ -43,3 +43,5 @@ nosetests.xml
 venv
 
 __pycache__/
+migrations/
+.gitignore
