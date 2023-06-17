@@ -44,5 +44,4 @@ venv
 
 __pycache__/
 migrations/
-.gitignore
 db.sqlite3
